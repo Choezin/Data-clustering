@@ -2,8 +2,6 @@
 
 A Simple Implement of  **Clustering**,  by using **Shiny**.
 
-
-
 ## What is Shiny?
 
 **Shiny** is a web application framework for **R**.
@@ -30,6 +28,5 @@ In **Clustering**, it contains:
 * DBSCAN
 * Spectral
 
-
-
+Clustering  is a process  which  partitions a given data set  into  homogeneous  groups based on  given  features such that similar  objects  are  kept  in  a   group  whereas  dissimilar  objects  are  in  different  groups.   It   is   the  most  important  unsupervised  learning problem. It  deals  with  finding  structure in a collection of  unlabeled data. 
 
